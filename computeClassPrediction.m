@@ -3,6 +3,7 @@
 
 clear all; clc; close all;
 addpath('code')
+addpath('data')
 
 % Load data
 load('Barcelona_classification.mat');
